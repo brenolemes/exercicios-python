@@ -1,2 +1,2 @@
 # exercicios-python
- Ecercícios do curso de Python
+ Ecercícios e resolução das aulas do curso de Python
